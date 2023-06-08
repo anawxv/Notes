@@ -1,0 +1,1 @@
+D:\2DS\PAM_MAUI_App\PAM_MAUI_App\PAM_MAUI_App.csproj;x64

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PAM_MAUI_App.props" />
+</Project>

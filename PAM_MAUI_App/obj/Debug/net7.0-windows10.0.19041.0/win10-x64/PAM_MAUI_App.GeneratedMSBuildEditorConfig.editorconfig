@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PAM_MAUI_App
+build_property.ProjectDir = D:\2DS\PAM_MAUI_App\PAM_MAUI_App\
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AboutPage.xaml
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/Views/AllNotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Views.AllNotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllNotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllNotesPage.xaml
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/Views/NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Views.NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NotePage.xaml
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/Shared/MainLayout.razor.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Shared.MainLayout.razor.css
+build_metadata.AdditionalFiles.TargetPath = Shared\MainLayout.razor.css
+build_metadata.AdditionalFiles.RelativePath = Shared\MainLayout.razor.css
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/Shared/NavMenu.razor.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.Shared.NavMenu.razor.css
+build_metadata.AdditionalFiles.TargetPath = Shared\NavMenu.razor.css
+build_metadata.AdditionalFiles.RelativePath = Shared\NavMenu.razor.css
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/wwwroot/css/app.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.wwwroot.css.app.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\app.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\app.css
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/wwwroot/css/bootstrap/bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.wwwroot.css.bootstrap.bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\bootstrap\bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\bootstrap\bootstrap.min.css
+
+[D:/2DS/PAM_MAUI_App/PAM_MAUI_App/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_MAUI_App.wwwroot.css.open_iconic.font.css.open-iconic-bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css

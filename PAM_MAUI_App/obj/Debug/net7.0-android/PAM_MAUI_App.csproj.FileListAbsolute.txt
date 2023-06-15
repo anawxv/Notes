@@ -1034,3 +1034,5 @@ D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\jni_remap.x86.
 D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so
 D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\app_shared_libraries\x86\libxamarin-app.so
+D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.dll
+D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.pdb

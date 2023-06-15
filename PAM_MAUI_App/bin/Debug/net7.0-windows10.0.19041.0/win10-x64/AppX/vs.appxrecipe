@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\2DS\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-08T00:56:05.019</Modified>
+      <Modified>2023-06-15T00:53:37.030</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2DS\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-06-08T00:56:04.637</Modified>
+      <Modified>2023-06-15T00:53:36.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.runtimeconfig.json">
       <PackagePath>PAM_MAUI_App.runtimeconfig.json</PackagePath>
-      <Modified>2023-06-08T00:56:04.285</Modified>
+      <Modified>2023-06-14T23:22:34.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\PAM_MAUI_App\PAM_MAUI_App\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.dll">
       <PackagePath>PAM_MAUI_App.dll</PackagePath>
-      <Modified>2023-06-08T00:56:02.489</Modified>
+      <Modified>2023-06-15T00:53:35.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PAM_MAUI_App.exe</PackagePath>
-      <Modified>2023-06-08T00:56:02.518</Modified>
+      <Modified>2023-06-15T00:53:35.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.1\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -806,6 +806,10 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-11-16T01:34:42.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\communitytoolkit.mvvm\8.2.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-04-27T00:48:24.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-10-18T16:15:22.000</Modified>
@@ -920,7 +924,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\PAM_MAUI_App\PAM_MAUI_App\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PAM_MAUI_App.deps.json">
       <PackagePath>PAM_MAUI_App.deps.json</PackagePath>
-      <Modified>2023-06-08T00:56:04.849</Modified>
+      <Modified>2023-06-15T00:53:36.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iQwtURKkdvKT7ycobDeO3Lb3OsKnhKSNda4DZqbUfJCuCUfcmrp8a7STwyXqACcJ2PBLkpsZC0cC983veHF2gg==",
+  "dgSpecHash": "bLBMkHMV4HtW+i8FO5oyyEfFd0Q549yfzlWBIu4DyY3xfd528B1+yAcpptTTZ2CLiMIG6kPw0quOtIoX9s8wIA==",
   "success": true,
   "projectFilePath": "D:\\2DS\\PAM_MAUI_App\\PAM_MAUI_App\\PAM_MAUI_App.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\etechas\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
